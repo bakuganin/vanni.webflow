@@ -29,7 +29,7 @@ __p+='`),E}),re+=`';
 
 timm/lib/timm.js:
   (*!
-   * Timm
+   * T
    *
    * Immutability helpers with fast reads and acceptable writes.
    *
